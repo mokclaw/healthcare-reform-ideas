@@ -26,21 +26,26 @@ assignees: []
 <!-- Explain your reform idea in detail. Be specific about mechanisms and implementation. -->
 
 ## Source / Attribution
-<!-- CRITICAL: Every idea must have a source. This could be: -->
-<!-- - A specific person (e.g., "Mark Cuban", "Dr. Atul Gawande") -->
-<!-- - An organization (e.g., "Kaiser Family Foundation", "Cato Institute") -->
-<!-- - A study or paper (e.g., "JAMA 2024 study on drug pricing") -->
-<!-- - A policy proposal (e.g., "Medicare for All Act, H.R. 1384") -->
-<!-- - Your own original idea (mark as "Original proposal by [your name]") -->
+<!-- ⚠️ CRITICAL: Every idea must have a source with a LINK -->
+<!-- Examples: -->
+<!-- - Interview: "Mark Cuban on The Daily Show" https://youtube.com/... -->
+<!-- - Article: "Fierce Healthcare analysis" https://fiercehealthcare.com/... -->
+<!-- - Study: "JAMA 2024 study on drug pricing" https://jamanetwork.com/... -->
+<!-- - Policy: "Medicare for All Act, H.R. 1384" https://congress.gov/... -->
+<!-- - Original: "Original proposal by [your name]" (no link needed for original) -->
 
 **Primary Source:** 
+- Name: 
+- Link: 
 
 **Supporting Sources:**
-- 
-- 
+- Name: 
+  Link: 
+- Name: 
+  Link: 
 
 ## Evidence / Examples
-<!-- Provide real-world evidence supporting this idea: -->
+<!-- Provide real-world evidence with LINKS: -->
 <!-- - Countries/states where this has been tried -->
 <!-- - Pilot program results -->
 <!-- - Academic studies -->
@@ -71,6 +76,7 @@ assignees: []
 
 **Checklist:**
 - [ ] I have provided a clear source for this idea
+- [ ] **I have included LINKS to all sources**
 - [ ] I have included supporting evidence or examples
 - [ ] I have acknowledged potential challenges
 - [ ] I have reviewed existing ideas to avoid duplicates

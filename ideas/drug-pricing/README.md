@@ -2,9 +2,11 @@
 
 ## 1. Cost-Plus Drug Pricing Model
 
-**Proposed by:** Mark Cuban (via Cost Plus Drugs Company)
+**Proposed by:** [Mark Cuban](https://www.markcuban.com/) (via [Cost Plus Drugs Company](https://costplusdrugs.com/))
 
-**Source:** Interview with Jon Stewart on The Daily Show, February 2024; WIRED The Big Interview, December 2024
+**Source:** 
+- [Interview with Jon Stewart on The Daily Show](https://www.youtube.com/watch?v=_I3rK1--9sk), February 2024
+- [WIRED: The Big Interview with Mark Cuban](https://www.wired.com/story/big-interview-mark-cuban-2024/), December 2024
 
 **The Idea:**
 Sell medications at transparent cost-plus pricing:
@@ -14,9 +16,9 @@ Sell medications at transparent cost-plus pricing:
 - + $5 shipping fee
 
 **Real-World Impact:**
-- Droxidopa: $20/month vs $3,000+/month uninsured (Source: Mark Cuban, WIRED interview, Dec 2024)
-- Chemotherapy drug: $30 vs $2,000 at traditional pharmacies (Source: Fierce Healthcare, Aug 2024)
-- Studies show Medicare could save billions buying just 9 specific drugs this way (Source: Cuban citing independent studies, 2024)
+- Droxidopa: $20/month vs $3,000+/month uninsured ([Source: Cuban, WIRED interview](https://www.wired.com/story/big-interview-mark-cuban-2024/))
+- Chemotherapy drug: $30 vs $2,000 at traditional pharmacies ([Source: Fierce Healthcare](https://www.fiercehealthcare.com/health-tech/mark-cuban-wants-keep-shaking-healthcare-heres-cost-plus-drugs-next-move), August 2024)
+- Studies show Medicare could save billions buying just 9 specific drugs this way ([Source: Cuban citing independent studies, 2024](https://www.fiercehealthcare.com/health-tech/mark-cuban-wants-keep-shaking-healthcare-heres-cost-plus-drugs-next-move))
 
 **Why It Works:**
 - Eliminates Pharmacy Benefit Managers (PBMs) who mark up prices
@@ -33,11 +35,11 @@ Sell medications at transparent cost-plus pricing:
 
 ## 2. PBM Reform: Eliminate Spread Pricing
 
-**Proposed by:** Federal Trade Commission (FTC), Mark Cuban, various health economists
+**Proposed by:** [Federal Trade Commission (FTC)](https://www.ftc.gov/), Mark Cuban, various health economists
 
 **Sources:** 
-- FTC Interim Staff Report on Pharmacy Benefit Managers, 2024
-- Mark Cuban interviews on PBM practices, 2023-2024
+- [FTC Interim Staff Report on Pharmacy Benefit Managers](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-staff-report-finds-pharmacy-benefit-managers-exert-outsize-influence-drug-prices-availability), July 2024
+- [Mark Cuban interviews on PBM practices](https://www.youtube.com/watch?v=_I3rK1--9sk), 2023-2024
 
 **The Problem:**
 PBMs (CVS Caremark, Express Scripts, OptumRx) control 90% of prescriptions and:
@@ -52,7 +54,7 @@ Mandate pass-through PBMs that:
 - Charge flat administrative fees instead of percentage markups
 
 **Evidence:**
-- FTC interim report confirms big PBMs overcharge for cancer drugs (FTC, 2024)
+- [FTC interim report confirms big PBMs overcharge for cancer drugs](https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-staff-report-finds-pharmacy-benefit-managers-exert-outsize-influence-drug-prices-availability) (FTC, 2024)
 - Pass-through PBMs already exist and operate at fraction of the cost
 - Cost Plus Drugs works with 4+ pass-through PBMs successfully (Rightway, EmsanaRx, RxPreferred Benefits, PCA Rx)
 
@@ -60,9 +62,9 @@ Mandate pass-through PBMs that:
 
 ## 3. Publish All Drug Pricing Contracts
 
-**Proposed by:** Mark Cuban / Cost Plus Drugs Company
+**Proposed by:** [Mark Cuban](https://www.markcuban.com/) / [Cost Plus Drugs Company](https://costplusdrugs.com/)
 
-**Source:** Announcement on The Daily Show with Jon Stewart, February 2024
+**Source:** [Announcement on The Daily Show with Jon Stewart](https://www.youtube.com/watch?v=_I3rK1--9sk), February 2024
 
 **The Idea:**
 Make all pharmaceutical pricing contracts public:
@@ -76,17 +78,17 @@ Make all pharmaceutical pricing contracts public:
 - Employers can't negotiate effectively without data
 
 **Status:**
-Cost Plus Drugs is pioneering this by publishing all their customer contracts online — a first in the industry.
+[Cost Plus Drugs is pioneering this](https://costplusdrugs.com/) by publishing all their customer contracts online — a first in the industry.
 
 ---
 
 ## 4. Safe Importation of Lower-Cost Drugs
 
-**Proposed by:** Various policymakers; FDA under both Trump and Biden administrations
+**Proposed by:** Various policymakers; [FDA](https://www.fda.gov/) under both Trump and Biden administrations
 
 **Sources:**
-- FDA Drug Importation Programs, established under Section 804 of the FD&C Act
-- Cost Plus Drugs FDA approval for syphilis drug importation, July 2024
+- [FDA Drug Importation Programs](https://www.fda.gov/drugs/drug-supply-chain-integrity/drug-importation-action-plan), established under Section 804 of the FD&C Act
+- [Cost Plus Drugs FDA approval for syphilis drug importation](https://www.fiercehealthcare.com/health-tech/mark-cuban-wants-keep-shaking-healthcare-heres-cost-plus-drugs-next-move), July 2024
 
 **The Idea:**
 Allow safe importation of FDA-approved drugs from countries with lower prices (Canada, EU, etc.)
@@ -105,9 +107,9 @@ Allow safe importation of FDA-approved drugs from countries with lower prices (C
 
 ## 5. Generic Drug Manufacturing Incentives
 
-**Proposed by:** Mark Cuban / Cost Plus Drugs; various health policy experts
+**Proposed by:** [Mark Cuban](https://www.markcuban.com/) / [Cost Plus Drugs](https://costplusdrugs.com/); various health policy experts
 
-**Source:** Fierce Healthcare interview with Alex Oshmyansky, M.D., Ph.D., CEO of Cost Plus Drugs, 2023-2024
+**Source:** [Fierce Healthcare interview with Alex Oshmyansky, M.D., Ph.D., CEO of Cost Plus Drugs](https://www.fiercehealthcare.com/health-tech/mark-cuban-wants-keep-shaking-healthcare-heres-cost-plus-drugs-next-move), 2023-2024
 
 **The Idea:**
 Increase domestic generic drug manufacturing to:
@@ -116,7 +118,7 @@ Increase domestic generic drug manufacturing to:
 - Decrease reliance on foreign supply chains (particularly India/China)
 
 **Real-World Example:**
-Cost Plus Drugs now manufactures their own generics in a 22,000 sq ft Dallas facility, starting with critical ICU drugs like epinephrine and norepinephrine.
+Cost Plus Drugs now manufactures their own generics in a [22,000 sq ft Dallas facility](https://www.fiercehealthcare.com/health-tech/mark-cuban-wants-keep-shaking-healthcare-heres-cost-plus-drugs-next-move), starting with critical ICU drugs like epinephrine and norepinephrine.
 
 **Policy Levers:**
 - Tax incentives for domestic manufacturing
@@ -127,8 +129,8 @@ Cost Plus Drugs now manufactures their own generics in a 22,000 sq ft Dallas fac
 
 ## Submit Your Idea
 
-Have a drug pricing reform idea with a credible source? 
+Have a drug pricing reform idea with a credible source and links? 
 
-**[➡️ Submit New Idea](../../issues/new?template=new_reform_idea.md)**
+**[➡️ Submit New Idea](https://github.com/mokclaw/healthcare-reform-ideas/issues/new?template=new_reform_idea.md)**
 
-**[➡️ Update Existing Idea](../../issues/new?template=update_idea.md)**
+**[➡️ Update Existing Idea](https://github.com/mokclaw/healthcare-reform-ideas/issues/new?template=update_idea.md)**

@@ -2,16 +2,18 @@
 
 Thank you for your interest in improving healthcare! This document outlines how to contribute.
 
-## ⚠️ Critical Rule: Every Idea Must Have a Source
+## ⚠️ Critical Rule: Every Idea Must Have a Source WITH LINKS
 
 **This repository does not accept unsourced ideas.** Every reform proposal must be attributed to:
-- A specific person (e.g., "Mark Cuban", "Dr. Atul Gawande", "Sen. Bernie Sanders")
-- An organization (e.g., "Kaiser Family Foundation", "American Medical Association")
-- A published study or paper (e.g., "JAMA 2024 study on drug pricing")
-- An official policy proposal (e.g., "Medicare for All Act, H.R. 1384")
+- A specific person (e.g., "Mark Cuban", "Dr. Atul Gawande")
+- An organization (e.g., "Kaiser Family Foundation")
+- A published study or paper
+- An official policy proposal
 - Your own original idea (mark clearly as "Original proposal by [your name]")
 
-**Why this matters:** Healthcare policy affects lives. Ideas need accountability and credibility.
+**🔗 LINKS ARE REQUIRED** — Every source must include a URL so readers can verify the information.
+
+**Why this matters:** Healthcare policy affects lives. Ideas need accountability, credibility, and verifiability.
 
 ## How to Contribute
 
@@ -38,19 +40,18 @@ Use our templates:
 
 **Proposed by:** [REQUIRED — Name, organization, or "Original by Your Name"]
 
+**Source:** [URL to interview, paper, policy doc, etc.]
+
 **The Problem:**
 [Specific description of the healthcare issue]
 
 **The Solution:**
 [Detailed explanation of the reform]
 
-**Source:**
-[Primary source — interview, paper, policy doc, etc.]
-
-**Supporting Evidence:**
+**Evidence:**
 - [Study with link]
 - [News article with link]
-- [Real-world example with location/date]
+- [Real-world example with location/date and link]
 
 **Challenges:**
 - [Political obstacle]
@@ -75,7 +76,7 @@ Use our templates:
 ### Writing Principles
 
 - **Be specific** — Include numbers, dates, and concrete mechanisms
-- **Cite everything** — Every statistic, quote, and claim needs a source
+- **Cite everything with links** — Every statistic, quote, and claim needs a verifiable source URL
 - **Consider trade-offs** — No solution is perfect; acknowledge downsides
 - **Stay constructive** — Focus on solutions, not just complaints
 - **Bipartisan tone** — Frame ideas to appeal across political spectrum
@@ -83,17 +84,26 @@ Use our templates:
 
 ## Attribution Examples
 
-**Good:**
+**✅ Good (with links):**
 ```markdown
-**Proposed by:** Mark Cuban, in interview with Jon Stewart on The Daily Show, February 2024
-**Source:** https://www.youtube.com/watch?v=...
-**Supporting:** Fierce Healthcare analysis, August 2024
+**Proposed by:** Mark Cuban
+**Source:** [Interview with Jon Stewart on The Daily Show](https://www.youtube.com/watch?v=xxxxx), February 2024
+
+**Supporting Evidence:**
+- [Fierce Healthcare: Cost Plus Drugs pricing analysis](https://www.fiercehealthcare.com/health-tech/...), August 2024
+- [WIRED: Mark Cuban interview transcript](https://www.wired.com/story/...), December 2024
 ```
 
-**Bad:**
+**❌ Bad (no links):**
 ```markdown
 **Proposed by:** Some guy on Twitter
 **Source:** Trust me bro
+```
+
+**❌ Also Bad (mention of source but no link):**
+```markdown
+**Proposed by:** Mark Cuban
+**Source:** Interview with Jon Stewart
 ```
 
 ## Code of Conduct
@@ -102,7 +112,7 @@ Use our templates:
 - No personal attacks on individuals or organizations
 - Focus on policy, not politics
 - Welcome diverse perspectives
-- Back up disagreements with evidence
+- Back up disagreements with evidence and links
 
 ## Questions?
 
