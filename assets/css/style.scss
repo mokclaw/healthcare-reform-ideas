@@ -1,0 +1,111 @@
+/* Custom styles for Healthcare Reform Ideas */
+
+.intro-box {
+  background: #f8f9fa;
+  border-left: 4px solid #28a745;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 4px 4px 0;
+}
+
+.intro-box blockquote {
+  margin: 1rem 0 0 0;
+  font-style: italic;
+  color: #555;
+}
+
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.category-card {
+  display: block;
+  background: #fff;
+  border: 1px solid #e1e4e8;
+  border-radius: 8px;
+  padding: 1.5rem;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+}
+
+.category-card:hover {
+  border-color: #28a745;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+
+.category-card h3 {
+  margin-top: 0;
+  color: #28a745;
+}
+
+.category-card p {
+  margin-bottom: 0;
+  color: #586069;
+}
+
+.principles {
+  list-style: none;
+  padding: 0;
+}
+
+.principles li {
+  padding: 0.5rem 0;
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.principles li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #28a745;
+  font-weight: bold;
+}
+
+.cta-box {
+  background: #28a745;
+  color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.cta-box h2 {
+  margin-top: 0;
+  color: white;
+}
+
+.cta-box .btn {
+  display: inline-block;
+  background: white;
+  color: #28a745;
+  padding: 0.75rem 1.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 0.5rem;
+}
+
+.cta-box .btn-secondary {
+  background: transparent;
+  color: white;
+  border: 2px solid white;
+}
+
+.idea-source {
+  background: #f6f8fa;
+  border-left: 3px solid #0366d6;
+  padding: 1rem;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+
+.idea-source strong {
+  color: #0366d6;
+}

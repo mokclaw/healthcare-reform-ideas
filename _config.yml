@@ -1,0 +1,49 @@
+# Site settings
+title: Healthcare Reform Ideas
+description: >-
+  A community-driven library of healthcare reform ideas focused on lowering 
+  patient costs, reducing insurance premiums, and improving the US healthcare system.
+
+baseurl: "/healthcare-reform-ideas"
+url: "https://mokclaw.github.io"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Custom settings
+show_excerpts: true
+
+# Navigation
+header_pages:
+  - about.md
+  - contributing.md
+
+# Collections
+collections:
+  ideas:
+    output: true
+    permalink: /:collection/:name/
+
+# Default layouts
+defaults:
+  - scope:
+      path: ""
+      type: "ideas"
+    values:
+      layout: "idea"
+  - scope:
+      path: "ideas/drug-pricing"
+    values:
+      category: "Drug Pricing"
+  - scope:
+      path: "ideas/insurance"
+    values:
+      category: "Insurance"
+  - scope:
+      path: "ideas/hospital-care"
+    values:
+      category: "Hospital & Care"
